@@ -12,7 +12,7 @@
         }, 
         "displayname": "1.jpg", 
         "filename": "asset-v1:IIT-Delhi+CIVIL16+Anytime+type@asset+block@1.jpg", 
-        "import_path": null, 
+        "import_path": "1.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -36,7 +36,7 @@
         }, 
         "displayname": "IIT Delhi_Virtual Smart Structures and Dynamics Laboratory.jpg", 
         "filename": "asset-v1:IIT-Delhi+CIVIL16+Anytime+type@asset+block@IIT_Delhi_Virtual_Smart_Structures_and_Dynamics_Laboratory.jpg", 
-        "import_path": null, 
+        "import_path": "IIT Delhi_Virtual Smart Structures and Dynamics Laboratory.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -60,7 +60,7 @@
         }, 
         "displayname": "bwb.swf", 
         "filename": "asset-v1:IIT-Delhi+CIVIL16+Anytime+type@asset+block@bwb.swf", 
-        "import_path": null, 
+        "import_path": "bwb.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -77,7 +77,7 @@
         }, 
         "displayname": "mainbeam1.swf", 
         "filename": "asset-v1:IIT-Delhi+CIVIL16+Anytime+type@asset+block@mainbeam1.swf", 
-        "import_path": null, 
+        "import_path": "mainbeam1.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -94,7 +94,7 @@
         }, 
         "displayname": "setupexp1.png", 
         "filename": "asset-v1:IIT-Delhi+CIVIL16+Anytime+type@asset+block@setupexp1.png", 
-        "import_path": null, 
+        "import_path": "setupexp1.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -118,7 +118,7 @@
         }, 
         "displayname": "setupexp2.png", 
         "filename": "asset-v1:IIT-Delhi+CIVIL16+Anytime+type@asset+block@setupexp2.png", 
-        "import_path": null, 
+        "import_path": "setupexp2.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -142,7 +142,7 @@
         }, 
         "displayname": "setupexp4.png", 
         "filename": "asset-v1:IIT-Delhi+CIVIL16+Anytime+type@asset+block@setupexp4.png", 
-        "import_path": null, 
+        "import_path": "setupexp4.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -166,7 +166,7 @@
         }, 
         "displayname": "short_movie.swf", 
         "filename": "asset-v1:IIT-Delhi+CIVIL16+Anytime+type@asset+block@short_movie.swf", 
-        "import_path": null, 
+        "import_path": "short_movie.swf", 
         "locked": false, 
         "thumbnail_location": null
     }
